@@ -43,40 +43,6 @@ elif opcion == 4:
         division = num_1 / num_2
         print(f"El resultado es {division}")
 
-
-
-
     
-    
-    
-
-
-    
-
-    
-        
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
